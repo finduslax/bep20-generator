@@ -12,4 +12,4 @@ The new Smart Contract Generator for BEP20 Token.
 
 ## License
 
-Code released under the [MIT License](https://finduslax.github.io/bep20-generator//blob/master/LICENSE).
+Code released under the [MIT License](https://finduslax.github.io/bep20-generator/blob/master/LICENSE).
